@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CACjB,gBACF,CAEA,QACE,wBACF","file":"main.f28e1161.chunk.css","sourcesContent":[".App {\r\n  padding-top: 4rem;\r\n  min-height: 100vh;\r\n}\r\n\r\n.navbar {\r\n  background-color: #ef5350;\r\n}\r\n"]}
